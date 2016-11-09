@@ -1,4 +1,4 @@
-<?php namespace Pixie;
+<?php namespace PixieTest;
 
 use Mockery as m;
 use Viocon\Container;
